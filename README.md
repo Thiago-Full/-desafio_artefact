@@ -90,6 +90,6 @@ on complaints or high-value refunds.
 ## Use of AI coding assistants
 
 Developed with the help of Claude (Anthropic) and Gemini (Google). It was used for
-architecture review, FastAPI boilerplate, SDK signature confirmation, and
+System Architecture review, FastAPI boilerplate, SDK signature confirmation, and
 drafting evaluation scenarios. Every tool was executed against the real CSVs
 and every business rule was cross-checked against the policy PDF.
