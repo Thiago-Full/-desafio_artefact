@@ -93,3 +93,4 @@ Developed with the help of Claude (Anthropic) and Gemini (Google). It was used f
 System Architecture review, FastAPI boilerplate, SDK signature confirmation, and
 drafting evaluation scenarios. Every tool was executed against the real CSVs
 and every business rule was cross-checked against the policy PDF.
+
